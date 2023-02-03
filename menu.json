@@ -1,0 +1,23 @@
+{
+    "restuarantName": "Garlic",
+    "location": "Brooklyn, NY",
+    "formed": 2020,
+    "active": true,
+    "menu": [
+        {
+            "name": "Spicy Beef Barbecue",
+            "calories": 1025,
+            "ingredients": ["beef", "barbecue sauce", "hot peppers"]
+        },
+        {
+            "name": "Honey Mozzarella Pizza",
+            "calories": 890,
+            "ingredients": ["mozzarella", "tomato sauce", "honey"]
+        },
+        {
+            "name": "Smoked Salmon",
+            "calories": 550,
+            "ingredients": ["salmon", "asparagus", "pepper"]
+        }
+    ]
+}
